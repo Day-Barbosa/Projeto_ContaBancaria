@@ -8,17 +8,17 @@
 
 <div align="center">
 
-&#x20; <img src="https://img.shields.io/github/languages/top/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/languages/top/Day-Barbosa/Projeto_ContaBancaria
 
-&#x20; <img src="https://img.shields.io/github/repo-size/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/repo-size/Day-Barbosa/Projeto_ContaBancaria
 
-&#x20; <img src="https://img.shields.io/github/languages/count/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/languages/Day-Barbosa/Projeto_ContaBancaria
 
-&#x20; <img src="https://img.shields.io/github/last-commit/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/last-commit/rDay-Barbosa/Projeto_ContaBancaria
 
-&#x20; <img src="https://img.shields.io/github/issues/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/issues/Day-Barbosa/Projeto_ContaBancaria
 
-&#x20; <img src="https://img.shields.io/github/issues-pr/rafaelq80/conta\_bancaria?style=flat-square" />
+&#x20; <img src="https://img.shields.io/github/issues-pr/Day-Barbosa/Projeto_ContaBancaria
 
 &#x20; <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído">
 
