@@ -8,21 +8,14 @@
 
 <div align="center">
 
-&#x20; <img src="https://img.shields.io/github/languages/top/Day-Barbosa/Projeto_ContaBancaria
+![Top Language](https://img.shields.io/github/languages/top/Day-Barbosa/Projeto_ContaBancaria)
+![Repo Size](https://img.shields.io/github/repo-size/Day-Barbosa/Projeto_ContaBancaria)
+![Languages](https://img.shields.io/github/languages/count/Day-Barbosa/Projeto_ContaBancaria)
+![Last Commit](https://img.shields.io/github/last-commit/Day-Barbosa/Projeto_ContaBancaria)
+![Issues](https://img.shields.io/github/issues/Day-Barbosa/Projeto_ContaBancaria)
+![Pull Requests](https://img.shields.io/github/issues-pr/Day-Barbosa/Projeto_ContaBancaria)
 
-&#x20; <img src="https://img.shields.io/github/repo-size/Day-Barbosa/Projeto_ContaBancaria
-
-&#x20; <img src="https://img.shields.io/github/languages/Day-Barbosa/Projeto_ContaBancaria
-
-&#x20; <img src="https://img.shields.io/github/last-commit/rDay-Barbosa/Projeto_ContaBancaria
-
-&#x20; <img src="https://img.shields.io/github/issues/Day-Barbosa/Projeto_ContaBancaria
-
-&#x20; <img src="https://img.shields.io/github/issues-pr/Day-Barbosa/Projeto_ContaBancaria
-
-&#x20; <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído">
-
-
+![Status](https://img.shields.io/badge/status-concluído-green)
 
 
 
