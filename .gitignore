@@ -1,0 +1,19 @@
+# Arquivos compilados pelo Java
+*.class
+
+# Pasta de build do Eclipse/STS
+bin/
+
+# Configurações locais do Eclipse/STS
+.settings/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
